@@ -49,3 +49,16 @@ After removing outer parentheses of each part, this is &quot;&quot; + &quot;&quo
 	<li><code>s[i]</code> is either <code>&#39;(&#39;</code> or <code>&#39;)&#39;</code>.</li>
 	<li><code>s</code> is a valid parentheses string.</li>
 </ul>
+DRY RUN
+result	openCount	c
+""	0		-
+	1		(
+(	2		(
+()	1		)
+()(	2		(
+()()	1		)
+	0		)
+	1		(
+()()(	2		(
+()()()	1		)
+	0		)

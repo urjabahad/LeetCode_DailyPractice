@@ -17,19 +17,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
+| [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
+| [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
+| [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 <!---LeetCode Topics End-->

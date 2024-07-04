@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/urjabahad/leetcode_answers/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/urjabahad/leetcode_answers/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->

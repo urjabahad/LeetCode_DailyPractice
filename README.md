@@ -16,13 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

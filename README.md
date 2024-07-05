@@ -47,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/urjabahad/leetcode_answers/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/urjabahad/leetcode_answers/tree/master/1761-count-sorted-vowel-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/urjabahad/leetcode_answers/tree/master/1761-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/urjabahad/leetcode_answers/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->

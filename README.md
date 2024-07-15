@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urjabahad/leetcode_answers/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Greedy
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/urjabahad/leetcode_answers/tree/master/1761-count-sorted-vowel-strings) |
+## Hash Table
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->

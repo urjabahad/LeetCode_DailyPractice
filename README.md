@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/urjabahad/leetcode_answers/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/urjabahad/leetcode_answers/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/urjabahad/leetcode_answers/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
+## String
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/urjabahad/leetcode_answers/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->

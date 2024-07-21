@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urjabahad/leetcode_answers/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/urjabahad/leetcode_answers/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
 |  |
 | ------- |
@@ -85,4 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urjabahad/leetcode_answers/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/urjabahad/leetcode_answers/tree/master/2472-build-a-matrix-with-conditions) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/urjabahad/leetcode_answers/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/urjabahad/leetcode_answers/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->

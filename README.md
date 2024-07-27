@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/urjabahad/leetcode_answers/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/urjabahad/leetcode_answers/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/urjabahad/leetcode_answers/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/urjabahad/leetcode_answers/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/urjabahad/leetcode_answers/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/urjabahad/leetcode_answers/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/urjabahad/leetcode_answers/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/0948-sort-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urjabahad/leetcode_answers/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/urjabahad/leetcode_answers/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urjabahad/leetcode_answers/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/urjabahad/leetcode_answers/tree/master/1511-count-number-of-teams) |
 | [1761-count-sorted-vowel-strings](https://github.com/urjabahad/leetcode_answers/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/urjabahad/leetcode_answers/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/urjabahad/leetcode_answers/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/urjabahad/leetcode_answers/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->

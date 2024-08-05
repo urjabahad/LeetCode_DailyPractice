@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/0948-sort-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urjabahad/leetcode_answers/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/urjabahad/leetcode_answers/tree/master/1511-count-number-of-teams) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/urjabahad/leetcode_answers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Breadth-First Search
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/urjabahad/leetcode_answers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/urjabahad/leetcode_answers/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -167,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->

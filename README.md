@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urjabahad/leetcode_answers/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/urjabahad/leetcode_answers/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/urjabahad/leetcode_answers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urjabahad/leetcode_answers/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/urjabahad/leetcode_answers/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/urjabahad/leetcode_answers/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/urjabahad/leetcode_answers/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/urjabahad/leetcode_answers/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/urjabahad/leetcode_answers/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2727-number-of-senior-citizens](https://github.com/urjabahad/leetcode_answers/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/urjabahad/leetcode_answers/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/urjabahad/leetcode_answers/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/urjabahad/leetcode_answers/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/urjabahad/leetcode_answers/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
 |  |
 | ------- |

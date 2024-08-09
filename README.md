@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
+| [0870-magic-squares-in-grid](https://github.com/urjabahad/leetcode_answers/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/0948-sort-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urjabahad/leetcode_answers/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/urjabahad/leetcode_answers/tree/master/1511-count-number-of-teams) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/urjabahad/leetcode_answers/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/urjabahad/leetcode_answers/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/urjabahad/leetcode_answers/tree/master/1761-count-sorted-vowel-strings) |
 | [2645-pass-the-pillow](https://github.com/urjabahad/leetcode_answers/tree/master/2645-pass-the-pillow) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
+| [0870-magic-squares-in-grid](https://github.com/urjabahad/leetcode_answers/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/urjabahad/leetcode_answers/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/urjabahad/leetcode_answers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/urjabahad/leetcode_answers/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urjabahad/leetcode_answers/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/urjabahad/leetcode_answers/tree/master/2472-build-a-matrix-with-conditions) |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/urjabahad/leetcode_answers/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/urjabahad/leetcode_answers/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urjabahad/leetcode_answers/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/urjabahad/leetcode_answers/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/urjabahad/leetcode_answers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urjabahad/leetcode_answers/tree/master/0098-validate-binary-search-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/urjabahad/leetcode_answers/tree/master/0999-regions-cut-by-slashes) |
 | [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/urjabahad/leetcode_answers/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/urjabahad/leetcode_answers/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/urjabahad/leetcode_answers/tree/master/0999-regions-cut-by-slashes) |
 | [1254-deepest-leaves-sum](https://github.com/urjabahad/leetcode_answers/tree/master/1254-deepest-leaves-sum) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/urjabahad/leetcode_answers/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Linked List
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/urjabahad/leetcode_answers/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/urjabahad/leetcode_answers/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0999-regions-cut-by-slashes](https://github.com/urjabahad/leetcode_answers/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/urjabahad/leetcode_answers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/urjabahad/leetcode_answers/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/urjabahad/leetcode_answers/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/urjabahad/leetcode_answers/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/urjabahad/leetcode_answers/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urjabahad/leetcode_answers/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/urjabahad/leetcode_answers/tree/master/2472-build-a-matrix-with-conditions) |
@@ -184,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/urjabahad/leetcode_answers/tree/master/0349-intersection-of-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urjabahad/leetcode_answers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/urjabahad/leetcode_answers/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->

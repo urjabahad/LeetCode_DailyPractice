@@ -1,15 +1,17 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        Stack<Integer> stk=new Stack<>();
-        int k=0;
-        for(int num : nums){
-            if(num!=0){
-                stk.push(num);
+        int index = 0;
+        
+        // Step 1: Move all non-zero elements to the front
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != 0) {
+                nums[index] = nums[i];
+                index++;
             }
         }
-        Arrays.fill(nums,0);
-        for(int i=stk.size()-1;i>=0;i--){
-            nums[i]=stk.pop();
+        // Step 2: Fill the remaining positions with zeros
+        for (int i = index; i < nums.length; i++) {
+            nums[i] = 0;
         }
     }
 }

@@ -1,22 +1,32 @@
 class Solution {
-    public int lengthOfLIS(int[] nums) {
-        int temp_arr[]=new int[nums.length];
-        Arrays.fill(temp_arr,1);
-        int j;
-        int max=1;
-        for(int i=1;i<nums.length;i++){
-            j=0;
-            while(j<i){
-                if(nums[j]<nums[i]){
-                    temp_arr[i]=Math.max(temp_arr[i],temp_arr[j]+1);
-                    if(max<temp_arr[i]){
-                        max=temp_arr[i];
-                    }
-                }
-            j++;
+    // Binary Search function to find the position to replace or insert a number
+    public int binSearch(ArrayList<Integer>list, int start, int end,int n) {
+        int mid;
+        while(start<end){
+            mid=(start+end)/2;
+            if(list.get(mid)<n){
+                start=mid+1;
+            }
+            else{
+                end=mid;
             }
         }
-        //System.out.println(Arrays.toString(temp_arr));
-        return max;
+        return start;
+    }
+    public int lengthOfLIS(int[] nums) {
+        ArrayList<Integer> list=new ArrayList<>();
+        list.add(nums[0]);
+        for(int i=1;i<nums.length;i++){
+
+            int pos=binSearch(list,0,list.size(),nums[i]);
+    // If `nums[i]` is larger than any element in the list, it extends the LIS
+            if (pos == list.size()) {
+                list.add(nums[i]);
+            } else {
+    // Otherwise, we replace the element at the found position
+                list.set(pos, nums[i]);
+            }
+            }
+        return list.size();
     }
 }

@@ -1,22 +1,27 @@
 class Solution {
-public int longestPalindromeSubseq(String s) {
-    int len = s.length();
-    int[][] dp = new int[len][len];
-    for(int i = 0; i < len; i++){
-        dp[i][i] = 1;
-    }
+    public int longestPalindromeSubseq(String s) {
 
-    for(int i = len - 2; i >= 0; i--){
-        char c = s.charAt(i);
-        for(int j = i + 1; j < len; j++){
-            if(c == s.charAt(j)){
-                dp[i][j] = dp[i + 1][j - 1] + 2;
-            }else {
-              	
-                dp[i][j] = Math.max(dp[i][j - 1], dp[i + 1][j]);
+        int matrix[][]=new int[s.length()][s.length()];
+         // Single character is always a palindrome of length 1
+        for (int i = 0; i < s.length(); i++) {
+            matrix[i][i] = 1;
+        }
+
+        for(int l=2;l<=s.length();l++){
+            for(int i=0;i<s.length()-l+1;i++){
+                int j = i + l - 1;
+                if(l==2 && s.charAt(i)==s.charAt(j)){
+                    matrix[i][j] = 2;
+                }
+                else if(s.charAt(i)==s.charAt(j)){
+                    //diagonal element
+                    matrix[i][j]=matrix[i+1][j-1]+2;
+                }
+                else{
+                    matrix[i][j]=Math.max(matrix[i][j-1],matrix[i+1][j]);
+                }
             }
         }
+        return matrix[0][s.length()-1];
     }
-    return dp[0][len - 1];
-}
 }
